@@ -56,7 +56,7 @@ function loadImages() {
       child = element.lastElementChild;
     }
   }
-  
+//   filtering data
   function selectBreedsStartingWith(letter) {
     updateBreedList(breeds.filter(breed => breed.startsWith(letter)));
   }
