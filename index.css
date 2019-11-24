@@ -1,0 +1,15 @@
+#dog-image-container {
+    text-align: center
+}
+
+#dog-image-container img{
+    height: 462px;
+    width: 413px;
+    border-radius: 20px;
+    margin: 10px 20px;
+    cursor: pointer;
+}
+
+#dog-breeds li {
+cursor: pointer;
+}
