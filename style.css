@@ -1,0 +1,46 @@
+
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+#dog-image-container {
+    text-align: center;
+    background-color:#b87676;
+}
+
+#dog-image-container img{
+    height: 350px;
+    width:250px;
+    border-radius: 20px;
+    margin: 10px 20px;
+    cursor: pointer;
+}
+h1{
+    text-align: center;
+    color:red;
+    background-color: bisque;
+    padding:10px;
+}
+#dog-breeds li {
+cursor: pointer;
+
+}
+#dog-breeds {
+    margin-left: 200px;
+    padding: 10px;
+
+    
+}
+#lab{
+    text-align: center;
+    margin-left: 100px;
+    padding: 30px;
+    color:red;
+}
+#breed-dropdown{
+    text-align: center;
+}
+.container{
+    background:bisque;
+}
